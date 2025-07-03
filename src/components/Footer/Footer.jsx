@@ -54,7 +54,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="footer-social">
-            <a href="mailto:contact@codegrid.com">
+            <a href="mailto:contact@fncmicn.com">
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>Email</h2>
@@ -63,7 +63,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="footer-social">
-            <a href="https://www.youtube.com/@codegrid">
+            <a href="https://www.youtube.com/@fncmicn">
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>LinkedIn</h2>
@@ -72,7 +72,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="footer-social">
-            <a href="https://www.youtube.com/@codegrid">
+            <a href="https://www.youtube.com/@fncmicn">
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>Behance</h2>
@@ -81,7 +81,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="footer-social">
-            <a href="https://www.youtube.com/@codegrid">
+            <a href="https://www.youtube.com/@fncmicn">
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>Instagram</h2>
@@ -90,7 +90,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="footer-social">
-            <a href="https://vimeo.com/codegrid">
+            <a href="https://vimeo.com/fncmicn">
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>Vimeo</h2>
@@ -105,7 +105,7 @@ const Footer = () => {
         <div className="fc-col-lg">
           <div className="footer-text">
             <div className="footer-text-content">
-              <p className="sm caps">Developed by Codegrid</p>
+              <p className="sm caps">Developed by fncmicn</p>
             </div>
           </div>
         </div>

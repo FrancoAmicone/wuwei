@@ -428,7 +428,7 @@ const Menu = ({ onMenuStateChange }) => {
                 <div className="revealer">
                   <a
                     className="sm caps mono"
-                    href="https://www.youtube.com/@codegrid"
+                    href="https://www.youtube.com/@fncmicn"
                   >
                     YouTube
                   </a>
@@ -436,13 +436,13 @@ const Menu = ({ onMenuStateChange }) => {
                 <div className="revealer">
                   <a
                     className="sm caps mono"
-                    href="https://www.instagram.com/codegridweb/"
+                    href="https://www.instagram.com/fncmicnweb/"
                   >
                     Instagram
                   </a>
                 </div>
                 <div className="revealer">
-                  <a className="sm caps mono" href="https://x.com/codegridweb">
+                  <a className="sm caps mono" href="https://x.com/fncmicnweb">
                     X
                   </a>
                 </div>
